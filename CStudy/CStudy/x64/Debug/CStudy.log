@@ -1,0 +1,17 @@
+﻿  ChapterThree.c
+e:\cobject\cstudy\cstudy\chapterthree.c(77): warning C4305: “=”: 从“double”到“float”截断
+e:\cobject\cstudy\cstudy\chapterthree.c(78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\cobject\cstudy\cstudy\chapterthree.c(48): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“__int64”
+  e:\cobject\cstudy\cstudy\chapterthree.c(48): note: 请考虑在格式字符串中使用“%lld”
+  e:\cobject\cstudy\cstudy\chapterthree.c(48): note: 请考虑在格式字符串中使用“%Id”
+  e:\cobject\cstudy\cstudy\chapterthree.c(48): note: 请考虑在格式字符串中使用“%I64d”
+e:\cobject\cstudy\cstudy\chapterthree.c(67): warning C4056: 浮点常量算术溢出
+  ChapterFour.c
+e:\cobject\cstudy\cstudy\chapterfour.c(19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\cobject\cstudy\cstudy\chapterfour.c(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\cobject\cstudy\cstudy\chapterfour.c(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\cobject\cstudy\cstudy\chapterfour.c(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  正在生成代码...
+e:\cobject\cstudy\cstudy\chapterthree.c(67): warning C4756: 常量算法中溢出
