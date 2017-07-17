@@ -1,3 +1,4 @@
+//基本数据类型， 两大类型，整数和浮点数，
 #include <stdio.h>
 #include <inttypes.h> //可移植类型头文件
 #include <complex.h>  //复数和虚数头文件

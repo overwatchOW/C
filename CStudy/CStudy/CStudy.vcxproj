@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ChapterFive.c" />
     <ClCompile Include="ChapterFour.c" />
     <ClCompile Include="ChapterThree.c" />
   </ItemGroup>

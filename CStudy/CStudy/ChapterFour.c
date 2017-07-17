@@ -1,3 +1,4 @@
+//字符串和格式化输入/输出
 #include <stdio.h>
 #include <string.h>  //字符串函数头文件
 #include <limits.h>  //整数类型大小限制相关信息
@@ -6,7 +7,7 @@
 #define PI 3.14159f   //C预处理器片段使用
 
 
-int main()
+int ChapterFour()
 {
 	//取消VS强制使用scanf_s ALT+F7 设置 _CRT_SECURE_NO_DEPRECATE
 
@@ -58,10 +59,8 @@ int main()
 	printf("Your basic pizza parameters are as follows:\n");
 	printf("Circumference = %1.2f, area = %1.2f\n", circum, area);*/
 
-	//-------------------- ---------------
-
-
-
+	//--------------------  ---------------
+	//略........
 
 
 	return 0;
