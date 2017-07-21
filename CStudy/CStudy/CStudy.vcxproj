@@ -148,6 +148,7 @@
   <ItemGroup>
     <ClCompile Include="ChapterFive.c" />
     <ClCompile Include="ChapterFour.c" />
+    <ClCompile Include="ChapterSix.c" />
     <ClCompile Include="ChapterThree.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
