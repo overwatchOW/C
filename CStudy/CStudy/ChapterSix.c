@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <math.h> // C数学库
 
-int main(void)
+int ChapterSix(void)
 {
 	//--------------------------------While循环---------------------------------------
 	/*
@@ -31,7 +31,7 @@ int main(void)
 	printf("What is the value of pi?\n");
 	scanf("%lf", &response);
 
-	while (fabs(response - ANSWER) > 0.0001)  //用户输入的值与正确的值相差0.0001循环结束
+	while (fabs(response - ANSWER) > 0.0001)  //用户输入的值与正确的值相差0.0001循环结束**
 	{
 		printf("Try again! \n");
 		scanf("%lf", &response);
