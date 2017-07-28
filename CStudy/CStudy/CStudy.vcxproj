@@ -146,8 +146,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ChapterEight.c" />
     <ClCompile Include="ChapterFive.c" />
     <ClCompile Include="ChapterFour.c" />
+    <ClCompile Include="ChapterNine.c" />
     <ClCompile Include="ChapterSeven.c" />
     <ClCompile Include="ChapterSix.c" />
     <ClCompile Include="ChapterThree.c" />
